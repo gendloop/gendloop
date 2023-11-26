@@ -1,4 +1,11 @@
-### Hi there 👋
+一介散修 己道酬行
+
+* [语雀](https://www.yuque.com/gendloop)
+* [gendloopBucket](https://github.com/gendloop/gendloopBucket)
+* [gendloopApps](https://github.com/gendloop/gendloopApps)
+* [gendloopActions](https://github.com/gendloop/gendloopActions)
+* [gendloopProjects](https://github.com/gendloop/gendloopProjects)
+* [gendloopTemplates](https://github.com/gendloop/gendloopTemplates)
 
 <!--
 **gendloop/gendloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
