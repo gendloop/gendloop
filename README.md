@@ -1,3 +1,5 @@
+> 致谢: 互联网
+
 一介散修 己道酬行
 
 * [语雀](https://www.yuque.com/gendloop)
