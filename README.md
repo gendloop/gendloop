@@ -5,7 +5,11 @@
 * [语雀](https://www.yuque.com/gendloop)
 
 
-* [Bucket](https://github.com/gendloop/gendloopBucket) $\cdot$ [Apps](https://github.com/gendloop/gendloopApps) $\cdot$ [Actions](https://github.com/gendloop/gendloopActions) $\cdot$ [Projects](https://github.com/gendloop/gendloopProjects) $\cdot$ [Templates](https://github.com/gendloop/gendloopTemplates) $\cdot$ [Workflows](https://github.com/gendloop/gendloopWorkflows) 
+* [Bucket](https://github.com/gendloop/gendloopBucket)
+$\cdot$ [Apps](https://github.com/gendloop/gendloopApps)
+$\cdot$ [Actions](https://github.com/gendloop/gendloopActions)
+$\cdot$ [Projects](https://github.com/gendloop/gendloopProjects)
+$\cdot$ [Templates](https://github.com/gendloop/gendloopTemplates) $\cdot$ [Workflows](https://github.com/gendloop/gendloopWorkflows) 
 
 <!--
 **gendloop/gendloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
