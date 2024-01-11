@@ -1,8 +1,8 @@
-> 致谢: 互联网
+> 致谢: 互联网 ( Gratitude to the Internet )
 
 一介散修 己道酬行
 
-* [语雀](https://www.yuque.com/gendloop)
+* [YuQue](https://www.yuque.com/gendloop)
 
 
 * [Bucket](https://github.com/gendloop/gendloopBucket)
