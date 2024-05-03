@@ -2,9 +2,6 @@
 
 一介散修 己道酬行
 
-* [YuQue](https://www.yuque.com/gendloop)
-
-
 * [Bucket](https://github.com/gendloop/gendloopBucket)
 $\cdot$ [Apps](https://github.com/gendloop/gendloopApps)
 $\cdot$ [Actions](https://github.com/gendloop/gendloopActions)
